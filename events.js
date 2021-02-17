@@ -29,7 +29,7 @@ function nightMode() {
 
   function dayMode() {
     let element = document.getElementById("trigBtn");
-    element.classList.toggle("white-mode");
+    element.classList.toggle("day-mode");
     toggleText;
 
   }
